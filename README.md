@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses react hooks for movie searching. In this project, we use useReducer, useEffect.
+You can add other hooks in this project.
 
 ## Available Scripts
 
